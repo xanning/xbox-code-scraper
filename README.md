@@ -1,6 +1,10 @@
 # xbox-code-scraper
 A request based Python tool to scrape XBOX friend invite codes from mailpass list
 
+# WARNING:
+
+This will probably skip a lots of accounts (possibly the ones with "Your security info change pending", i don't know why. It's just weird. Use MSMC.
+
 # Heavily skidded from MSMC because i have no idea how to code a request based tool.
 
 Special thanks to Copilot for making my code into what i actually want.
